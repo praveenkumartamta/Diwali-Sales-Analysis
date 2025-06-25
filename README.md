@@ -91,13 +91,14 @@ Gender-wise and Age-wise Spending
 Zone and Occupation-based Insights
 
 ## 📊 Major Insights:
-Aspect	Insight
-Gender	Female customers outspent males during Diwali
-Age Group	26–35 age group had highest spending
-State	Uttar Pradesh and Maharashtra generated highest revenue
-Zone	North and West zones performed best
-Occupation	IT and Healthcare professionals made frequent purchases
-Product Category	Food, Clothing, and Electronics were top-selling
+## Aspect	           Insight
+
+Gender	            Female customers outspent males during Diwali
+Age Group	          26–35 age group had highest spending
+State	              Uttar Pradesh and Maharashtra generated highest revenue
+Zone	              North and West zones performed best
+Occupation	        IT and Healthcare professionals made frequent purchases
+Product Category   	Food, Clothing, and Electronics were top-selling
 
 ##  🛍️ Business Recommendations:
 Focus marketing on women aged 26–35
